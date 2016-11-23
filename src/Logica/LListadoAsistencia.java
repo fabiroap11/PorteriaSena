@@ -4,6 +4,7 @@
  * and open the template in the editor.
  */
 package Logica;
+HOLA FABI ROA P 11
 
 import Datos.Conexion;
 import static Datos.DListadoAsistencia.consultarUsuaFicha;
